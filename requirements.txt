@@ -6,6 +6,7 @@ cffi @ file:///D:/bld/cffi_1606601395031/work
 constantly==15.1.0
 cryptography @ file:///D:/bld/cryptography_1610338909973/work
 cssselect==1.1.0
+cssutils==1.0.2
 hyperlink @ file:///home/conda/feedstock_root/build_artifacts/hyperlink_1610092164190/work
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1609836280497/work
 incremental==17.5.0
